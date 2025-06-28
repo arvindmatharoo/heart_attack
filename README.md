@@ -57,6 +57,6 @@ This project aims to predict the risk of a heart attack using machine learning b
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/heart-attack-risk-prediction.git
+   git clone https://github.com/arvindmatharoo/heart-attack-risk-prediction.git
    cd heart-attack-risk-prediction
 
