@@ -60,8 +60,10 @@ This project aims to predict the risk of a heart attack using machine learning b
    git clone https://github.com/arvindmatharoo/heart-attack-risk-prediction.git
    cd heart-attack-risk-prediction
 2. Install Requirements :
-  pip install -r requirements.txt
-3. Run the notebook :
+  ```bash
+   pip install -r requirements.txt
+  ```
+4. Run the notebook :
   heart.ipynb
 
 
