@@ -74,5 +74,7 @@ This project aims to predict the risk of a heart attack using machine learning b
 # 🙋 Author
 Arvind Singh
 📧 iarvinddsingh@gmail.com
-🔗 [arvindmatharoo](https://www.linkedin.com/in/arvindmatharoo/)
+🔗 [Arvind Singh](https://www.linkedin.com/in/arvindmatharoo/
+📧 manthansingla786@gmail.com
+🔗 [Manthan Singla]https://www.linkedin.com/in/manthan-singla-3a302b1b2/
 
