@@ -68,3 +68,11 @@ This project aims to predict the risk of a heart attack using machine learning b
 
 
 ⚠️ Note: Dataset is not included due to academic privacy. Please contact the author for access if permitted.
+
+
+
+# 🙋 Author
+Arvind Singh
+📧 iarvinddsingh@gmail.com
+🔗 arvindmatharoo
+
